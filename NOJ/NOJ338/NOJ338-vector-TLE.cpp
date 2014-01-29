@@ -4,33 +4,35 @@
 // current state : accept(2014/1/29)
 
 #include <cstdio>
+#include <vector>
 #include <algorithm>
 
-#define maxStudent 100000
 using namespace std;
 
-int binarySearch(int[], int, int);
-int problemSolved[maxStudent];
+int binarySearch(vector<int>, int);
 
 main() {
     int testCaseNum, studentNum, limitSetSize;
     int value;
+    vector<int>problemSolved;
 
     scanf("%d", &testCaseNum);
     for (int CASE = 0; CASE < testCaseNum; CASE++) {
+        problemSolved.clear();
 
         scanf("%d", &studentNum);
         for (int stu = 0; stu < studentNum; stu++) {
-            scanf("%d", &problemSolved[stu]);
+            scanf("%d", &value);
+            problemSolved.push_back(value);
         }
-        sort(problemSolved, problemSolved+studentNum);
+        sort(problemSolved.begin(), problemSolved.end());
 
         scanf("%d", &limitSetSize);
         scanf("%d", &value);
-        printf("%d", binarySearch(problemSolved, studentNum, value));
+        printf("%d", binarySearch(problemSolved, value));
         for (int limitNo = 1; limitNo < limitSetSize; limitNo++) {
             scanf("%d", &value);
-            printf("% d", binarySearch(problemSolved, studentNum, value));
+            printf("% d", binarySearch(problemSolved, value));
         }
 
         if (CASE < testCaseNum-1)
@@ -38,9 +40,9 @@ main() {
     }
 }
 
-int binarySearch(int problemSolved[maxStudent],int studentNum, int target) {
+int binarySearch(vector<int>problemSolved, int target) {
     int start = 0;
-    int end = studentNum-1;
+    int end = problemSolved.size()-1;
     int mid = (start+end)/2 + 1;
 
     if (problemSolved[start] > target)
