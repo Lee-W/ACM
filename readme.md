@@ -1,4 +1,5 @@
 #Not finished
+==========
 ###Not even submit
 - UVa10026
 - POJ3262
@@ -7,6 +8,8 @@
 - POJ3067
 
 #Accepted
+==========
+###Not even submit
 - Total number : 8
 
 ###UVa
