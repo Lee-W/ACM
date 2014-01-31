@@ -1,7 +1,7 @@
+// current state : AC
 // time (first submit) : 16:53
-// state (first submit) : accepted
+// state (first submit) : AC
 // error reason :
-// current state : accepted (2014/1/27)
 
 #include <iostream>
 #include <cstdio>

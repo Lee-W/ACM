@@ -1,7 +1,7 @@
+// current state : AC
 // time (first submit) : 21:37
 // state (first submit) : TLE
 // error reason : BinarySearch  stuck in while loop. In this case, using vector is not efficient enough.
-// current state : accept(2014/1/29)
 
 #include <cstdio>
 #include <algorithm>

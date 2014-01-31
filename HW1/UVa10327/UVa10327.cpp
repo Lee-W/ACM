@@ -1,7 +1,7 @@
+// current state : AC
 // time (first submit) : 11:51
-// state (first submit) : wrong answer
+// state (first submit) : WA
 // error reason : Forget to clean the vector
-// current state : accepted (2014/1/22)
 
 #include <iostream>
 #include <cstdio>

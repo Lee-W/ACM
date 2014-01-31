@@ -1,7 +1,8 @@
-// time (first submit) : not submit yet 66:21
+// current state : not submit yet
+// time (first submit) : 66:21
 // state (first submit) :
 // error reason :
-// current state :
+
 
 #include <iostream>
 #include <cstdio>

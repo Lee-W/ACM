@@ -1,7 +1,9 @@
+// current state : AC
 // time (first submit) : 24:31
-// state (first submit) : compile error
+// state (first submit) : CE 
 // error reason : Wrong submission. G++ should be chosen instead of C++ or main function without return type will not be accept
-// current state : accepted (2014/1/22)
+
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>

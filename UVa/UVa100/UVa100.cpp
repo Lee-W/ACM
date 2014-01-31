@@ -1,7 +1,7 @@
+// current state : AC
 // time (first submit) : 23:34
-// state (first submit) : wrong answer
+// state (first submit) : WA
 // error reason : The problem didn't say that i must less than j. Thus, such situation should be handled. 
-// current state : accepted (2014/1/21)
 
 #include <iostream>
 #include <algorithm>

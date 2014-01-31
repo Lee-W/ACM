@@ -1,7 +1,8 @@
+// current state : AC
 // time (first submit) : 17:38
 // state (first submit) : TLE
 // error reason : using bubble sort wil cause TLE. Thus, using merge sort to handle this situation.
-// current state : accepted (2014/1/22)
+
 #include <iostream>
 #include <cstdio>
 #include <vector>

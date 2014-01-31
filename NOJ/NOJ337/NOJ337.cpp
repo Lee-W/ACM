@@ -1,7 +1,7 @@
+// current state : AC
 // time (first submit) : 42:55
 // state (first submit) : TLE
 // error reason : The median is (a+b)/2 not (a-b)/2 ......
-// current state : accept(2014/1/28)
 
 #include <iostream>
 #include <cstdio>
