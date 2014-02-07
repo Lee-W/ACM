@@ -2,11 +2,12 @@
 ---------------------------------------
 ###Not yet submit due to error of online judge site
 - UVa11572
-- UVa11260
+- UVa10260
 
 ###Not even finished
 - UVa10026
 - POJ3262
+- UVa11038
 
 ###TLE
 - POJ3067
