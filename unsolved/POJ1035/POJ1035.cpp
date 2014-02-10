@@ -1,4 +1,4 @@
-// current state : WA
+// current state : RE
 // time (first submit) : 72:22
 // state (first submit) : WA
 // error reason :
@@ -20,7 +20,7 @@ bool cmp(wordInDic first, wordInDic second) {
 }
 
 string dic[maxDicSize];
-vector<wordInDic> lengthToWord[maxWordLength+2];
+vector< vector<wordInDic> > lengthToWord(maxWordLength+2);
 
 main()
 {
