@@ -1,7 +1,7 @@
-// current state :
+// current state : AC
 // time (first submit) : 17:54
-// state (first submit) :
-// error reason :
+// state (first submit) : WA
+// error reason : forget to clean string. original "prevCode" affect the judement in the next wrong
 
 #include <iostream>
 #include <map>
@@ -19,7 +19,10 @@ main() {
     int prevCode, code;
 
     while(cin >> str) {
+        prevCode = 0;
+        code = 0;
         for (int i = 0; i < str.size(); i++) {
+
             if (code = soundex[char(str[i])]) {
                 if (prevCode!=code)
                     cout<<code;
