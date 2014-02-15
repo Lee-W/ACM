@@ -9,25 +9,17 @@ using namespace std;
 
 main() {
 
-    map<int,int>packages;
+    map<int,bool>packages;
     int castNum, snowFlakeNum, snowFlakeID;
 
     scanf("%d", &castNum);
-    scanf("%d", &snowFlakeNum);
-    for (int i = 0; i < snowFlakeNum; i++) {
-        scanf("%d", &snowFlakeID);
-        packages[snowFlakeID]++;
-    }
-    printf("%ld",packages.size());
-
-
-    for (int CASE = 1; CASE < castNum; CASE++) {
-        packages.clear();
+    for (int CASE = 0; CASE < castNum; CASE++) {
         scanf("%d", &snowFlakeNum);
         for (int i = 0; i < snowFlakeNum; i++) {
             scanf("%d", &snowFlakeID);
-            packages[snowFlakeID]++;
+            packages[snowFlakeID] = true;
         }
-        printf("\n%ld",packages.size());
+        printf("%ld\n",packages.size());
+        packages.clear();
     }
 }
