@@ -1,4 +1,4 @@
-// current state : RE
+// current state : TLE
 // time (first submit) : 72:22
 // state (first submit) : WA
 // error reason :
@@ -6,8 +6,8 @@
 #include <cstdio>
 #include <algorithm>
 #include <vector>
-#define maxDicSize 10000
-#define maxWordLength 15
+#define maxDicSize 10005
+#define maxWordLength 20
 using namespace std;
 
 struct wordInDic{
