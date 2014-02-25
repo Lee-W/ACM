@@ -13,11 +13,10 @@ main()
 }
 
 int modifiedModular(int B, int P, int M) {
-    if (P==1 || P==0 || B==1 || B==0) {
+    if (P==1 || P==0 || B==1 || B==0)
         return (P ? B%M : 1);
-    } else if (B >= M) {
+    else if (B >= M)
         return modifiedModular(B%M, P, M);
-    } else {
+    else
         return modifiedModular(B*B, P/2, M) * (P%2 ? B%M: 1) %M;
-    }
 }
