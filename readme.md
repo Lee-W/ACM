@@ -1,9 +1,10 @@
 #Not finished
 ---------------------------------------
-## Total number : 7
+## Total number : 8
 
 - WA
     - UVa11572
+    - POJ1192
 
 - Not even finished
     - UVa10026
@@ -18,9 +19,9 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 29
-- UVa (15)
-- POJ (9)
+## Total number : 31
+- UVa (16)
+- POJ (10)
 - NOJ (3)
 - ZOJ (2)
 
@@ -63,7 +64,7 @@
 - POJ
     - 1068、1664、3714
 - Uva
-    - 755、10017、10098、10245、11069
+    - 10017、10098、10245、11069
 ###stuck:
 - POJ
     - 1035
