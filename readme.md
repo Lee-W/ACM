@@ -19,8 +19,8 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 35
-- UVa (20)
+## Total number : 36
+- UVa (21)
 - POJ (10)
 - NOJ (3)
 - ZOJ (2)
@@ -33,11 +33,12 @@
 #Fromal-Course
 ##Course 1 (5-14)
 - POJ
-    – 1338, 3253,    2431, 2442
+    – 2442
 - Uva
-    – 10821,    712,10909,11997,
+    – 10821,    712,10909
 
 ###stuck:
+- POJ1338, POJ3253, POJ2431, UVa11997
 ###finish(6):
 - UVa11995, UVa10954, UVa12347, UVa501, POJ3481, POJ2255
 
