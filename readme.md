@@ -25,7 +25,7 @@
 - NOJ (3)
 - ZOJ (2)
 
-## Total point : 14.5 (21 * 0.5 + 4)
+## Total point : 17.5 (21 * 0.5 + 6)
 
 
 #Problem List
@@ -33,13 +33,13 @@
 #Fromal-Course
 ##Course 1 (5-14)
 - POJ
-    – 1338, 3253,    2255, 2431, 2442, 3481
+    – 1338, 3253,    2431, 2442
 - Uva
     – 10821,    712,10909,11997,
 
 ###stuck:
-###finish(4):
-- UVa11995, UVa10954, UVa12347
+###finish(6):
+- UVa11995, UVa10954, UVa12347, UVa501, POJ3481, POJ2255
 
 
 
