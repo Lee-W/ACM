@@ -21,11 +21,11 @@
 ---------------------------------------
 ## Total number : 38
 - UVa (23)
-- POJ (10)
+- POJ (11)
 - NOJ (3)
 - ZOJ (2)
 
-## Total point : 21.5 (21 * 0.5 + 11)
+## Total point : 22.5 (21 * 0.5 + 12)
 
 
 #Problem List
@@ -49,9 +49,9 @@
     – 10821,    712,10909
 
 ###stuck:
-- POJ1338, POJ3253, POJ2431, UVa11997
-###finish(6):
-- UVa11995, UVa10954, UVa12347, UVa501, POJ3481, POJ2255
+- POJ1338, POJ3253, UVa11997
+###finish(7):
+- UVa11995, UVa10954, UVa12347, UVa501, POJ3481, POJ2255, POJ2431
 
 
 
