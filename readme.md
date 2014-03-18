@@ -15,13 +15,13 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 46
+## Total number : 47
 - UVa (29)
-- POJ (12)
+- POJ (13)
 - NOJ (3)
 - ZOJ (2)
 
-## Total point : 28.5 (21 * 0.5 + 18)
+## Total point : 29.5 (21 * 0.5 + 19)
 
 
 #Problem List
@@ -31,9 +31,9 @@
 - UVa
     - 11987,    10157, 10807
 - POJ
-    - 2395,   1182, 1703, 1751, 1861, 2492
-###finish(7):
-- UVa10583, UVa11503, UVa10685, UVa10369, UVa11747, POJ2485, POJ2421
+    - 1182, 1703, 1751, 1861, 2492
+###finish(8):
+- UVa10583, UVa11503, UVa10685, UVa10369, UVa11747, POJ2485, POJ2421, POJ2395
 
 
 ##Course 2 (5-23)
