@@ -16,13 +16,13 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 56
-- UVa (31)
-- POJ (19)
+## Total number : 64
+- UVa (35)
+- POJ (23)
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 44 (21 * 0.5 + 29 + 4.5)
+## Total point : 45 (21 * 0.5 + 30 + 4.5)
 
 ## Contest
     3/25CPE     3*1.5
@@ -35,9 +35,9 @@
 - POJ
     - 1191, 1260, 1678, 1836, 1925
 - UVa
-    - 103, 437, 836, 10534, 10949
-###finish(7):
-    - POJ1579, POJ1050, POJ3176, UVa507, UVa111, UVa531, UVa231
+    - 103, 437, 10534, 10949
+###finish(8):
+    - POJ1579, POJ1050, POJ3176, UVa507, UVa111, UVa531, UVa231, UVa836
 
 
 ##Course 3(7-16)
