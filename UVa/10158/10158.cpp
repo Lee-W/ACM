@@ -80,10 +80,9 @@ main()
                 unionSet(xE, y);
             if (x != yE)
                 unionSet(x, yE);
-        else if (cmd == 3)
+        } else if (cmd == 3)
             printf("%d\n", areFriend(x,y));
         else if (cmd == 4)
             printf("%d\n", areEmeny(x,y));
-        
     }
 }
