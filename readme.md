@@ -1,7 +1,7 @@
 #Not finished
 ---------------------------------------
-## Total number : 22
-- UVa10807, POJ1182, POJ1703, POJ1751, POJ2492
+## Total number : 18
+- UVa10807, POJ1182, POJ1751
 - NOJ252, UVa872, UVa989, UVa11060
 - POJ1338, POJ3253, UVa11997
 - UVa11572
@@ -16,18 +16,18 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 68
-- UVa (38)
-- POJ (24)
+## Total number : 71
+- UVa (39)
+- POJ (26)
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 53.2
+## Total point : 
 
 ###homework
     formal (1)          : 31
-    pre-course (0.5)    : 28
-    late (0.7)          : 1
+    pre-course (0.5)    : 30
+    late (0.7)          : 3
 
 ### Contest
     3/25CPE (1.5)           :   3 * 1.5
@@ -58,10 +58,10 @@
 
 ##Course 3(7-16)
 ###stuck:
-- UVa10807, POJ1182, POJ1703, POJ1751, POJ2492
-###finish(10 + 1):
+- UVa10807, POJ1182, POJ1751
+###finish(10 + 3):
 - UVa10583, UVa11503, UVa10685, UVa10369, UVa11747, POJ2485, POJ2421, POJ2395, POJ1861, UVa11987
-- UVa10158, 
+- UVa10158, POJ1703, POJ2492 
 
 
 ##Course 2 (5-23)
@@ -113,11 +113,11 @@
     - POJ: 1328 , 2526 , 3617
 - Disjoint Set
     - UVa: 793 , 879, 10505, 10608
-    - POJ: 1182 , 1703, 1988 , 2492
+    - POJ: 1182 , 1988 
 - CodeForce:
     - 313A, 313C,361A ,363A ,363C ,365A , 370C, 371D, 373A
-##finish(5):
-- UVa10158, UVa10583, UVa10685, UVa11503, UVa11987
+##finish(7):
+- UVa10158, UVa10583, UVa10685, UVa11503, UVa11987, POJ1703, POJ2492
 
 ##HW2
 - POJ
