@@ -16,13 +16,13 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 71
+## Total number : 72
 - UVa (39)
-- POJ (26)
+- POJ (27)
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 
+## Total point : 55.6
 
 ###homework
     formal (1)          : 31
@@ -40,11 +40,11 @@
 
 ##Course 5 (5-17)
 - POJ
-    - 1724, 1860, 2240, 2253, 2949
+    - 1724, 1860, 2253, 2949
 - UVa
     -  341, 558, 10000, 10048, 10187, 10278, 10557, 10801, 10986
-###finish (3)
-- POJ2387, POJ3259, POJ1125
+###finish (4)
+- POJ2387, POJ3259, POJ1125, POJ2240
 
 
 ##Course 4(7-17)
@@ -127,7 +127,7 @@
 ###stuck:
 - POJ1035
 ###finish(7):
-- POJ2503, UVa156, UVa369, UVa375, UVa673, UVa755, UVa10420
+- POJ2503, UVa156, UVa369, UVa374, UVa673, UVa755, UVa10420
 
 ##HW1
 - POJ
