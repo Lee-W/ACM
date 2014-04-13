@@ -1,6 +1,7 @@
 #Not finished
 ---------------------------------------
-## Total number : 18
+## Total number : 20
+- UVa10557, POJ1860
 - UVa10807, POJ1182, POJ1751
 - NOJ252, UVa872, UVa989, UVa11060
 - POJ1338, POJ3253, UVa11997
@@ -22,7 +23,7 @@
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 65.6
+## Total point : 64.6
 
 ###homework
     formal (1)          : 41
@@ -31,18 +32,29 @@
 
 ### Contest
     3/25CPE (1.5)           :   3 * 1.5
-    3/29清交成聯賽 (3)      :   1 * 3
+    3/29清交成聯賽 (2)      :   1 * 2 
 
 
 #Problem List
 ---------------------------------------
 #Fromal-Course
 
+##Course 6 (5-13)
+- UVa
+    - 820 , 10330 , 10779 , 11418 
+- POJ
+    - 1149 , 1459 , 2112 , 2289 , 2396 , 2455 , 2584 , 3189 , 3228
+###finish(1)
+- UVa820,
+              
+
 ##Course 5 (5-17)
 - POJ
     - 1724, 1860, 2949
 - UVa
     -  10187, 10278, 10557, 10801, 
+###stuck:
+- UVa10557, POJ1860
 ###finish (10)
 - POJ2387, POJ3259, POJ1125, POJ2240, UVa558, UVa10986, UVa10000. UVa341, UVa10048, POJ2253
 
