@@ -1,6 +1,7 @@
 #Not finished
 ---------------------------------------
-## Total number : 20
+## Total number : 21
+- POJ2455
 - UVa10557, POJ1860
 - UVa10807, POJ1182, POJ1751
 - NOJ252, UVa872, UVa989, UVa11060
@@ -17,22 +18,23 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 80
+## Total number : 83
 - UVa (45)
-- POJ (29)
+- POJ (32)
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 64.6
+## Total point : 75.6
 
 ###homework
-    formal (1)          : 41
+    formal (1)          : 46
     pre-course (0.5)    : 30
     late (0.7)          : 3
 
 ### Contest
     3/25CPE (1.5)           :   3 * 1.5
-    3/29清交成聯賽 (2)      :   1 * 2 
+    3/29清交成聯賽 (2)      :   1 * 2
+    4/16課程賽(2)           :   3 * 2
 
 
 #Problem List
@@ -41,18 +43,20 @@
 
 ##Course 6 (5-13)
 - UVa
-    - 10779 , 11418 
+    - 10779 , 11418
 - POJ
-    - 1149 , 2112 , 2289 , 2396 , 2455 , 2584 , 3189 , 3228
-###finish(3)
-- UVa820, UVa10330, POJ1495
-              
+    - 2289 , 2396 , 2584 , 3189 , 3228
+#stuck:
+- POJ2455
+###finish(5)
+- UVa820, UVa10330, POJ1495, POJ1149, POJ2112
+
 
 ##Course 5 (5-17)
 - POJ
     - 1724, 1860, 2949
 - UVa
-    -  10187, 10278, 10557, 10801, 
+    -  10187, 10278, 10557, 10801
 ###stuck:
 - UVa10557, POJ1860
 ###finish (10)
