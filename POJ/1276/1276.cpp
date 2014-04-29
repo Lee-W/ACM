@@ -13,7 +13,7 @@ int count(int n, int cash) {
     dp[0] = true;
     for (int i = 0; i < n; i++)
         for (int k = cash; k >= value[i]; k--)
-            dp[k] = dp[k] || dp[k - value[i]];
+            dp[k] = dp[k - value[i]];
 
     int max = 0;
     for (int i = 1; i <= cash; i++)
