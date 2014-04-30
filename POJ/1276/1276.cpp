@@ -12,8 +12,8 @@ int count(int n, int cash) {
     memset(dp, 0, sizeof(dp));
     dp[0] = true;
     for (int i = 0; i < n; i++)
-        for (int k = cash; k >= value[i]; k--)
-            dp[k] = dp[k - value[i]];
+        for (int v = cash; v >= value[i]; v--)
+            dp[v] = dp[v] || dp[v - value[i]];
 
     int max = 0;
     for (int i = 1; i <= cash; i++)

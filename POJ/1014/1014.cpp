@@ -37,8 +37,8 @@ bool count(int counter, int sum) {
     dp[0] = true;
 
     for (int i = 0; i < counter; i++)
-        for (int k = target; k >= val[i]; k--)
-            dp[k] = dp[k - val[i]];
+        for (int v = target; v >= val[i]; v--)
+            dp[v] = dp[v - val[i]];
 
     return dp[target];
 }
