@@ -18,13 +18,13 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 83
-- UVa (45)
-- POJ (32)
+## Total number : 89
+- UVa (48)
+- POJ (35)
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 81.6
+## Total point : 86.6
 
 ###homework
     formal (1)          : 46
