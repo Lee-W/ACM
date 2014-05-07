@@ -19,16 +19,16 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 89
-- UVa (48)
-- POJ (35)
+## Total number : 99
+- UVa (53)
+- POJ (40)
 - NOJ (4)
 - ZOJ (2)
 
 ## Total point : 86.6
 
 ###homework
-    formal (1)          : 51
+    formal (1)          : 60
     pre-course (0.5)    : 30
     late (0.7)          : 3
 
@@ -42,6 +42,14 @@
 #Problem List
 ---------------------------------------
 #Fromal-Course
+
+##Course 9 (5-11)
+- UVa(9)
+    - 247 , 315 , 610 , 796 , 10199 , 10765 , 11324 , 11504 , 11709
+- POJ(2)
+    - 1523 , 2117
+
+
 
 ##Course 8 (5-15)
 - POJ (5)
