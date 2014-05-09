@@ -11,10 +11,10 @@ vector<int> edge[maxN];
 int dfn[maxN], low[maxN];
 bool visited[maxN], inStack[maxN];
 stack<int> s;
-int num;
+int num, counter;
 
 void init(int);
-void tarjan(int, int);
+void tarjan(int);
 int main()
 {
     int n, m;
@@ -28,11 +28,9 @@ int main()
             if (p == 2)
                 edge[w].push_back(v);
         }
-
         for (int i = 1; i <= n; i++)
             if (!visited[i])
-                tarjan(i, 1);
-
+                tarjan(i);
         printf("%d\n", num == 1);
     }
 }
@@ -46,9 +44,10 @@ void init(int n) {
     while(!s.empty())
         s.pop();
     num = 0;
+    counter = 0;
 }
 
-void tarjan(int current, int counter) {
+void tarjan(int current) {
     dfn[current] = low[current] = counter++;
 
     s.push(current);
@@ -59,21 +58,20 @@ void tarjan(int current, int counter) {
         int next = edge[current][i];
 
         if (!visited[next]) {
-            tarjan(next, counter);
+            tarjan(next);
             low[current] = min(low[current], low[next]);
         } else if (inStack[next])
-            low[current] = min(low[current], low[next]);
+            low[current] = min(low[current], dfn[next]);
     }
 
     if (dfn[current] == low[current]) {
-        int next = s.top();
-        inStack[next] = false;
-        s.pop();
+        num++;
+
+        int next = 0;
         while(current != next) {
             next = s.top();
             inStack[next] = false;
             s.pop();
         }
-        num++;
     }
 }
