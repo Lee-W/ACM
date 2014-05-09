@@ -20,8 +20,8 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 99
-- UVa (53)
+## Total number : 100
+- UVa (54)
 - POJ (40)
 - NOJ (4)
 - ZOJ (2)
