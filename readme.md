@@ -26,11 +26,11 @@
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 86.6
+## Total point : 83.1
 
 ###homework
     formal (1)          : 60
-    pre-course (0.5)    : 30
+    pre-course (0.5)    : 30 - 7(repeat)
     late (0.7)          : 3
 
 ### Contest
@@ -46,9 +46,11 @@
 
 ##Course 9 (5-11)
 - UVa(9)
-    - 247 , 315 , 610 , 796 , 10199 , 10765 , 11324 , 11504 , 11709
+    - 610 , 796 , 10199 , 10765 , 11324 , 11504 , 11709
 - POJ(2)
     - 1523 , 2117
+##finish(2)
+- UVa315, UVa247
 
 
 
