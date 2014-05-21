@@ -21,16 +21,16 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 105
-- UVa (58)
+## Total number : 106
+- UVa (59)
 - POJ (41)
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 83.1
+## Total point : 88.1
 
 ###homework
-    formal (1)          : 60
+    formal (1)          : 65
     pre-course (0.5)    : 30 - 7(repeat)
     late (0.7)          : 3
 
