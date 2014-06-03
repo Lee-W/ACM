@@ -21,10 +21,10 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 110
+## Total number : 111
 - UVa (61)
 - POJ (43)
-- NOJ (4)
+- NOJ (5)
 - ZOJ (2)
 
 ## Total point : 100.6
@@ -54,11 +54,11 @@
 - UVa: (5)
     – 563, 10746, 11301
 - NCKU Judge: (1)
-    – 253
+    – 
 - ICPC archive: (1)
     – 5095
-##finish(4)
-    - POJ2195, UVa10594, UVa10806, POJ2516
+##finish(5)
+    - POJ2195, UVa10594, UVa10806, POJ2516, NOJ253
 
 
 #Course 10 (4-12)
