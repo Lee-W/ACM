@@ -21,16 +21,16 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 106
-- UVa (59)
-- POJ (41)
+## Total number : 110
+- UVa (61)
+- POJ (43)
 - NOJ (4)
 - ZOJ (2)
 
-## Total point : 96.6
+## Total point : 100.6
 
 ###homework
-    formal (1)          : 65
+    formal (1)          : 69
     pre-course (0.5)    : 30 - 7(repeat)
     late (0.7)          : 3
 
@@ -41,6 +41,8 @@
     中程杯(3)               :   2 * 3
     5/27CPE (1.5)           :   3 * 1.5
 
+###basic problem num : 57
+
 
 #Problem List
 ---------------------------------------
@@ -48,15 +50,15 @@
 
 #Course 11 (4-10)
 - POJ (3)
-    – 2516, 3068
+    – 3068
 - UVa: (5)
     – 563, 10746, 11301
 - NCKU Judge: (1)
     – 253
 - ICPC archive: (1)
     – 5095
-##finish(3)
-    - POJ2195, UVa10594, UVa10806
+##finish(4)
+    - POJ2195, UVa10594, UVa10806, POJ2516
 
 
 #Course 10 (4-12)
