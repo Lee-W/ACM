@@ -139,6 +139,5 @@ bool SPFA(int source, int des, int vertexNum) {
             }
         }
     }
-
     return pre[des] != -1;
 }
