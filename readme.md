@@ -1,6 +1,7 @@
 #Not finished
 ---------------------------------------
-## Total number : 26
+## Total number : 27
+- UVa11475
 - POJ2117
 - UVa11419
 - POJ1384, UVa10313, POJ1742
@@ -21,16 +22,16 @@
 
 #Accepted
 ---------------------------------------
-## Total number : 115
-- UVa (64)
-- POJ (45)
+## Total number : 119
+- UVa (65)
+- POJ (48)
 - NOJ (5)
 - ZOJ (2)
 
-## Total point : 111.6
+## Total point : 115.6
 
 ###homework
-    formal (1)          : 75
+    formal (1)          : 79
     pre-course (0.5)    : 30 - 7(repeat)
     late (0.7)          : 3
 
@@ -41,12 +42,19 @@
     中程杯(3)               :   2 * 3
     5/27CPE (1.5)           :   3 * 1.5
 
-###basic problem num : 57
+###basic problem num : 61
 
 
 #Problem List
 ---------------------------------------
 #Fromal-Course
+#Course 13 (5-14)
+- POJ(8)
+    – 1269, 1654, 1696, 2002, 2318, 2398, 2653, 3304
+- Uva(6)
+    – 152, 191, 378, 866, 10709, 11639
+
+
 
 #Course 12 (4-10)
 - UVa(2):
