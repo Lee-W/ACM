@@ -27,5 +27,3 @@
 - POJ (48)
 - NOJ (5)
 - ZOJ (2)
-
-## Total point : 115.6
